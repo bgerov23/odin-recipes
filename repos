@@ -6,7 +6,13 @@
 
 <title> Recipe for Spaghetti Bolognese </title>
 <body>
-    <h1> <strong>What goes in Spaghetti Bolognese</strong></h1>
+    <h1> <strong> Odin's recipe </strong> </h1>
+
+<ol>
+<li>Worchester sauce</li>
+<li>Beef bulion cubes</li>
+<li>Sugar</li>
+</ol>
 
 <p>I have been loyal to this Meat Sauce recipe since I first learned to cook when I was a teenager. There are <em>3 little things</em> in this recipe that might be a bit different to Bolognese recipes you have seen around: </p>
 
@@ -16,6 +22,7 @@
 
 <p><strong>3. Sugar,</strong>if needed: just a little bit goes a long way to <em>transform </em> the sauce if you happen not to be using high quality, sweet Italian canned tomatoes. Supermarket canned tomatoes here in Australia are notoriously sour. Especially the Australian ones,  it pains me so much to say that, but it is true. </p>
 
-
+<img src="./images/spaghetti.jpg">
 </body>
+
 </html>
